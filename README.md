@@ -1,4 +1,4 @@
-# omnifoodTestHtmlCourse
+# omnifoodTestHtmlCourseV1
  
 This repository serve as a backup and demonstration of the html/css code created during the "Build Responsive Real World Websites with HTML5 and CSS3" course on Udemy, ministered by Jonas Schmedtmann on Udemy.
 
